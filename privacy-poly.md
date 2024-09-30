@@ -5,7 +5,7 @@ Welcome to Chkela. Your privacy is important to us, and this Privacy Policy expl
 
 By using Chkela, you agree to the collection and use of information in accordance with this policy.
 
-###2. Information We Collect
+### 2. Information We Collect
 We may collect the following types of information when you use Chkela:
 
 Personal Information: Information that can be used to identify you, such as your name, email address, phone number, etc. This information is only collected if you voluntarily provide it.
